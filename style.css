@@ -39,10 +39,14 @@ font-family:"Sofia", sans-serif ;
 img.birthday{
     max-height: 40vh;
 }
-
+.card .dip{
+width: 280px;
+border-radius: 5px;
+}
 .text{
     padding: 1em;
 }
+
 
 .muted{
     opacity: 108;
